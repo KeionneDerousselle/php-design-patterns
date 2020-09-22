@@ -1,0 +1,15 @@
+{
+  "name": "kderousselle/adapter",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Keionne Derousselle",
+      "email": "knnderousselle@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
