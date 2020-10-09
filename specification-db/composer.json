@@ -1,0 +1,10 @@
+{
+    "name": "kderousselle/specification-db",
+    "authors": [
+        {
+            "name": "Keionne Derousselle",
+            "email": "knnderousselle@gmail.com"
+        }
+    ],
+    "require": {}
+}

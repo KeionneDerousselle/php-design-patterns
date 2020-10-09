@@ -6,4 +6,4 @@ use App\Customer;
 use App\CustomerIsGold;
 
 $spec = new CustomerIsGold();
-$spec->isSatisfiedBy(new Customer());
+$spec->isSatisfiedBy(new Customer('silver'));
